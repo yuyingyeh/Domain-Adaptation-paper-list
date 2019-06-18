@@ -6,6 +6,8 @@ List recent papers related to domain adaptation in different type of application
 - [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) (CVPR'19)
 - [Learning to Transfer Examples for Partial Domain Adaptation](https://arxiv.org/pdf/1903.12230.pdf) (CVPR'19)
 - [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf) (CVPR'19)
+- [Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation](https://openreview.net/forum?id=B1G9doA9F7) (ICLR'19)
+- [Regularized Learning for Domain Adaptation under Label Shifts](https://openreview.net/forum?id=rJl0r3R9KX) (ICLR'19)
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17)
 - [Adversarial discriminative domain adaptation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) (CVPR'17)
 - [Domain adversarial training of neural networks](http://jmlr.org/papers/volume17/15-239/15-239.pdf) (JMLR'16)
@@ -38,10 +40,19 @@ List recent papers related to domain adaptation in different type of application
 - [Learning to Adapt for Stereo](https://arxiv.org/pdf/1904.02957.pdf) (CVPR'19)
 - [Unsupervised adaptation for deep stereo](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf) (ICCV'17)
 
+## Multi-Domain
+- [Multi-Domain Adversarial Learning](https://openreview.net/forum?id=Sklv5iRqYX) (ICLR'19)
+
 ## Other
 
 #### Object Detection
 - [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/pdf/1904.07305.pdf) (CVPR'19)
+
+#### Adversarial Attack
+- [Improving the Generalization of Adversarial Training with Domain Adaptation](https://openreview.net/forum?id=SyfIfnC5Ym) (ICLR'19)
+
+#### Open-Set DA
+- [Learning Factorized Representations for Open-Set Domain Adaptation](https://openreview.net/pdf?id=SJe3HiC5KX) (ICLR'19)
 
 #### Brain-Machine Interfaces
 - [Adversarial Domain Adaptation for Stable Brain-Machine Interfaces](https://openreview.net/forum?id=Hyx6Bi0qYm) (ICLR'19)
