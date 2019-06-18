@@ -39,11 +39,19 @@ List recent papers related to domain adaptation in different type of application
 - [Unsupervised adaptation for deep stereo](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf) (ICCV'17)
 
 ## Other
+
 #### Object Detection
 - [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/pdf/1904.07305.pdf) (CVPR'19)
 
+#### Brain-Machine Interfaces
+- [Adversarial Domain Adaptation for Stable Brain-Machine Interfaces](https://openreview.net/forum?id=Hyx6Bi0qYm) (ICLR'19)
+
+#### Metric Learning
+- [Unsupervised Domain Adaptation for Distance Metric Learning](https://openreview.net/forum?id=BklhAj09K7) (ICLR'19)
+
 #### 3D Keypoint Estimation
 - [Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) (ECCV'18)
+
 #### Face Recognition in Video
 - [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/iccv17_videoface_camera.pdf) (ICCV'17)
 
