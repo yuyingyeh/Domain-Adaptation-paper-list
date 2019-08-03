@@ -53,6 +53,7 @@ List recent papers related to domain adaptation in different type of application
 - [Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation](https://arxiv.org/pdf/1904.01870.pdf) (CVPR'19)
 - [T2net: Synthetic-to-realistic translation for solving single-image depth estimation tasks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuanxia_Zheng_T2Net_Synthetic-to-Realistic_Translation_ECCV_2018_paper.pdf) (ECCV'18)
 - [AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2583.pdf) (CVPR'18)
+- [Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Atapour-Abarghouei_Real-Time_Monocular_Depth_CVPR_2018_paper.pdf) (CVPR'18)
 
 ## Stereo
 - [Learning to Adapt for Stereo](https://arxiv.org/pdf/1904.02957.pdf) (CVPR'19)
