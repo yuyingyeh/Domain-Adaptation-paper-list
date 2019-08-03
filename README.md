@@ -16,14 +16,10 @@ List recent papers related to domain adaptation in different type of application
 - [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf) (CVPR'15)
 - [Learning transferable features with deep adaptation networks](http://proceedings.mlr.press/v37/long15.pdf) (ICML'15)
 #### Entropy Based method
-- [Realistic Evaluation of Deep Semi-SupervisedLearning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) (CVPR'18 Oral)
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18)
-- [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17)
 - [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (ECCV'16 workshop)
-- [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
-- [Semi-supervised Learningby Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
 
 ## Semantic Segmentation
 - [Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation](https://arxiv.org/pdf/1809.09478.pdf) (CVPR'19)
@@ -80,3 +76,10 @@ List recent papers related to domain adaptation in different type of application
 
 #### Gaze estimation and human hand pose estimation
 - [Learning from Simulated and Unsupervised Images through Adversarial Training](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.pdf) (CVPR'17)
+
+## Classification
+# Semi-supervised Learning
+- [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
+- [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
+- [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
+- [Semi-supervised Learningby Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
