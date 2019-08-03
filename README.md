@@ -28,6 +28,7 @@ List recent papers related to domain adaptation in different type of application
 ## Semantic Segmentation
 - [Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation](https://arxiv.org/pdf/1809.09478.pdf) (CVPR'19)
 - [Cycada: Cycle-consistent adversarial domain adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (ICML'18)
+- [Conditional Generative Adversarial Network for Structured Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
 - [Learning to adapt structured output space for semantic segmentation](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_semantic_segmentation.pdf) (CVPR'18)
 - [Learning from synthetic data: Addressing domain shift for semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf) (CVPR'18)
 - [Image to Image Translation for Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) (CVPR'18)
