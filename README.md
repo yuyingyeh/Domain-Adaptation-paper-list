@@ -93,6 +93,7 @@ List recent papers related to domain adaptation in different type of application
 
 ## Classification
 # Semi-supervised Learning
+- [Virtual Adversarial Training:A Regularization Method for Supervised andSemi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf) (TPAMI'18)
 - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
