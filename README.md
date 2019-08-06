@@ -47,6 +47,7 @@ List recent papers related to domain adaptation in different type of application
 - [Learning to adapt structured output space for semantic segmentation](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_semantic_segmentation.pdf) (CVPR'18 Spotlight)
 - [Learning from synthetic data: Addressing domain shift for semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf) (CVPR'18 Spotlight)
 - [Image to Image Translation for Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) (CVPR'18)
+- [Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) (ICCV'17)
 - [FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation](https://arxiv.org/pdf/1612.02649.pdf) (ArXiv'16)
 
 ### Weakly supervised domain adaptation
