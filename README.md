@@ -1,4 +1,4 @@
-# Domain Adaptation / Semisupervised / Weakly supervised / Transfer learning paper list
+# Domain Adaptation / Transfer learning / Semi-supervised paper list
 List recent papers related to domain adaptation in different type of applications. Some are referred from [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
 
 ## Classification
@@ -37,8 +37,8 @@ List recent papers related to domain adaptation in different type of application
 - [Cycada: Cycle-consistent adversarial domain adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (ICML'18)
 - [ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes](https://arxiv.org/abs/1711.11556) (CVPR'18)
 - [Conditional Generative Adversarial Network for Structured Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
-- [Learning to adapt structured output space for semantic segmentation](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_semantic_segmentation.pdf) (CVPR'18)
-- [Learning from synthetic data: Addressing domain shift for semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf) (CVPR'18)
+- [Learning to adapt structured output space for semantic segmentation](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_semantic_segmentation.pdf) (CVPR'18 Spotlight)
+- [Learning from synthetic data: Addressing domain shift for semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf) (CVPR'18 Spotlight)
 - [Image to Image Translation for Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) (CVPR'18)
 - [FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation](https://arxiv.org/pdf/1612.02649.pdf) (ArXiv'16)
 
