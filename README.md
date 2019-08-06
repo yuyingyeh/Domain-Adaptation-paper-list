@@ -1,4 +1,4 @@
-# Domain Adaptation paper list
+# Domain Adaptation / Semisupervised / Weakly supervised / Transfer learning paper list
 List recent papers related to domain adaptation in different type of applications. Some are referred from [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
 
 ## Classification
@@ -23,7 +23,7 @@ List recent papers related to domain adaptation in different type of application
 - [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (ECCV'16 workshop)
 
 ## Semantic Segmentation
-- [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19 Oral)
+### Unsupervised Domain Adaptation
 - [DLOW: Domain Flow for Adaptation and Generalization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gong_DLOW_Domain_Flow_for_Adaptation_and_Generalization_CVPR_2019_paper.pdf) (CVPR'19 Oral)
 - [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19)
 - [Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Semantic_Segmentation_From_Synthetic_Data_A_Geometrically_Guided_Input-Output_CVPR_2019_paper.pdf) (CVPR'19)
@@ -33,12 +33,18 @@ List recent papers related to domain adaptation in different type of application
 - [All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) (CVPR'19)
 - [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes](https://arxiv.org/abs/1904.09092v1) (TIP)
 - [SPIGAN: Privileged Adversarial Learning from Simulation](https://openreview.net/forum?id=rkxoNnC5FQ) (ICLR'19)
+- [Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation](https://arxiv.org/abs/1809.00903) (ECCV'18)
 - [Cycada: Cycle-consistent adversarial domain adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (ICML'18)
+- [ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes](https://arxiv.org/abs/1711.11556) (CVPR'18)
 - [Conditional Generative Adversarial Network for Structured Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
 - [Learning to adapt structured output space for semantic segmentation](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_semantic_segmentation.pdf) (CVPR'18)
 - [Learning from synthetic data: Addressing domain shift for semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf) (CVPR'18)
 - [Image to Image Translation for Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) (CVPR'18)
 - [FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation](https://arxiv.org/pdf/1612.02649.pdf) (ArXiv'16)
+
+### Weakly supervised domain adaptation
+Abundant source domain data, limited target domain data
+- [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19 Oral)
 
 ## Feature Disentanglement
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
@@ -91,10 +97,14 @@ List recent papers related to domain adaptation in different type of application
 #### Gaze estimation and human hand pose estimation
 - [Learning from Simulated and Unsupervised Images through Adversarial Training](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.pdf) (CVPR'17)
 
-## Classification
+
 # Semi-supervised Learning
+## Classification
 - [Virtual Adversarial Training:A Regularization Method for Supervised andSemi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf) (TPAMI'18)
 - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
 - [Semi-supervised Learningby Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
+
+## Semantic Segmentation
+- [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) (BMVC'18)
