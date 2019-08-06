@@ -1,13 +1,16 @@
 # Domain Adaptation / Transfer learning / Semi-supervised paper list
 List recent papers related to domain adaptation in different type of applications. Some are referred from [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
 
+## Theory
+- [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
+
 ## Classification
 - [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR'19)
 - [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1903.04064.pdf) (CVPR'19)
 - [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) (CVPR'19)
 - [Learning to Transfer Examples for Partial Domain Adaptation](https://arxiv.org/pdf/1903.12230.pdf) (CVPR'19)
 - [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf) (CVPR'19)
-- [Transferability vs. Discriminability:Batch Spectral Penalization for Adversarial Domain Adaptation](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) (ICML'19)
+- [Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) (ICML'19)
 - [Learning What and Where to Transfer](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf) (ICML'19)
 - [Bridging Theory and Algorithm for Domain Adaptation](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf) (ICML'19)
 - [On Learning Invariant Representations for Domain Adaptation](http://proceedings.mlr.press/v97/zhao19a/zhao19a.pdf) (ICML'19)
@@ -104,7 +107,7 @@ Abundant source domain data, limited target domain data
 
 # Semi-supervised Learning
 ## Classification
-- [Virtual Adversarial Training:A Regularization Method for Supervised andSemi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf) (TPAMI'18)
+- [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf) (TPAMI'18)
 - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
