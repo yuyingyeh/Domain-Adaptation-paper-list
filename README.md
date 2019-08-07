@@ -20,18 +20,24 @@ List recent papers related to domain adaptation in different type of application
 - [Multi-Domain Adversarial Learning](https://openreview.net/forum?id=Sklv5iRqYX) (ICLR'19)
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICLR'19)
 - [Co-regularized Alignment for Unsupervised Domain Adaptation](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf) (NIPS'18)
+- [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) (CVPR'18 Oral): Discriminative domain invariant feature
+- [Adversarial Dropout Regularization](https://openreview.net/forum?id=HJIoJWZCZ) (ICLR'18): Discriminative domain invariant feature
+- [Multi-Adversarial Domain Adaptation](https://arxiv.org/abs/1809.02176) (AAAI'18 Oral): class-aware domain discrepancy, discriminative domain invariant feature
+- [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (ICCV'17): Discriminative domain invariant feature
 - [Adversarial discriminative domain adaptation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) (CVPR'17)
 - [Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/pdf/1612.05424.pdf) (CVPR'17)
 - [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/pdf/1605.06636.pdf) (ICML'17): JMMD
+- [Learning Transferrable Representations for Unsupervised Domain Adaptation](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation.pdf) (NIPS'16): Discriminative domain invariant feature
 - [Domain adversarial training of neural networks](http://jmlr.org/papers/volume17/15-239/15-239.pdf) (JMLR'16)
 - [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf) (CVPR'15)
 - [Learning transferable features with deep adaptation networks](http://proceedings.mlr.press/v37/long15.pdf) (ICML'15): MMD
+- [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf) (ICCV'13): class-aware domain discrepancy
+
 #### Open-Set DA
 - [Learning Factorized Representations for Open-Set Domain Adaptation](https://openreview.net/pdf?id=SJe3HiC5KX) (ICLR'19)
 - [Open Set Domain Adaptation by Backpropagation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) (ECCV'18)
 
 #### Entropy Based method
-- [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) (CVPR'18 Oral)
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18)
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17)
 - [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (ECCV'16 workshop)
