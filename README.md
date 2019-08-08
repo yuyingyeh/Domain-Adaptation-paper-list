@@ -47,13 +47,16 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-Set Domain Adaptation](https://openreview.net/pdf?id=SJe3HiC5KX) (ICLR'19)
 - [Open Set Domain Adaptation by Backpropagation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) (ECCV'18)
 
-#### Video Classification / Human action recognition
+#### Video Classification
+Human action recognition
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/pdf/1907.12743.pdf) (ICCV'19)
 - [Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision](https://arxiv.org/pdf/1902.07370.pdf) (AAAI'19)
 - [Deep domain adaptation in action space](http://bmvc2018.org/contents/papers/0960.pdf) (BMVC'18)
 - [Dual many-to-one-encoder-based transfer learning for cross-dataset human action recognition](https://www.sciencedirect.com/science/article/pii/S0262885616000020) (Image and Vision Computing'16)
 - [Human action recognition acrossdatasets by foreground-weighted histogram decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909498) (CVPR'14)
 
+Face Recognition
+- [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/iccv17_videoface_camera.pdf) (ICCV'17)
 
 ## Semantic Segmentation
 ### Unsupervised Domain Adaptation
@@ -121,9 +124,6 @@ Abundant source domain data, limited target domain data
 
 #### 3D Keypoint Estimation
 - [Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) (ECCV'18)
-
-#### Face Recognition in Video
-- [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/iccv17_videoface_camera.pdf) (ICCV'17)
 
 #### Gaze estimation and human hand pose estimation
 - [Learning from Simulated and Unsupervised Images through Adversarial Training](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.pdf) (CVPR'17)
