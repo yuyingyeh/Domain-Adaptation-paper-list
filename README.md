@@ -37,6 +37,9 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-Set Domain Adaptation](https://openreview.net/pdf?id=SJe3HiC5KX) (ICLR'19)
 - [Open Set Domain Adaptation by Backpropagation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) (ECCV'18)
 
+#### Video Classification
+- [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/pdf/1907.12743.pdf) (ICCV'19)
+
 #### Entropy Based method
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18)
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17)
