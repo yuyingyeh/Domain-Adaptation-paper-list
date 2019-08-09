@@ -49,7 +49,7 @@ List recent papers related to domain adaptation in different type of application
 
 #### Video Classification
 Human action recognition
-- [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/pdf/1907.12743.pdf) (ICCV'19)
+- [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/pdf/1907.12743.pdf) (ICCV'19 Oral)
 - [Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision](https://arxiv.org/pdf/1902.07370.pdf) (AAAI'19)
 - [Deep domain adaptation in action space](http://bmvc2018.org/contents/papers/0960.pdf) (BMVC'18)
 - [Dual many-to-one-encoder-based transfer learning for cross-dataset human action recognition](https://www.sciencedirect.com/science/article/pii/S0262885616000020) (Image and Vision Computing'16)
