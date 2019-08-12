@@ -23,6 +23,8 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICLR'19)
 - [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI'19): attention mechanism
 - [Co-regularized Alignment for Unsupervised Domain Adaptation](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf) (NIPS'18)
+- [Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.pdf) (ECCV'18)
+- [Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation:the Benefit of Target Expectation Maximization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf) (ECCV'18)
 - [DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) (ECCV'18): Optimal transport, Wasserstein distance
 - [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) (CVPR'18 Oral): Discriminative domain invariant feature, Ensemble-based DA
 - [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/pdf/1704.01705.pdf) (CVPR'18 Spotlight)
@@ -56,6 +58,14 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-Set Domain Adaptation](https://openreview.net/pdf?id=SJe3HiC5KX) (ICLR'19)
 - [Open Set Domain Adaptation by Backpropagation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) (ECCV'18)
 
+#### Partial DA
+Target domain classes are subset of source domain
+- [Partial Adversarial Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) (ECCV'18)
+
+#### Domain Generalization
+Labeled source domain data only, no unlabeled/labeled target domain data
+- [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf) (ECCV'18)
+
 #### Video Classification
 Human action recognition
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/pdf/1907.12743.pdf) (ICCV'19 Oral)
@@ -79,6 +89,7 @@ Face Recognition
 - [All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) (CVPR'19)
 - [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes](https://arxiv.org/abs/1904.09092v1) (TIP)
 - [SPIGAN: Privileged Adversarial Learning from Simulation](https://openreview.net/forum?id=rkxoNnC5FQ) (ICLR'19)
+- [Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) (ECCV'18)
 - [Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation](https://arxiv.org/abs/1809.00903) (ECCV'18)
 - [Domain transfer through deep activation matching](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshuo_Huang_Domain_transfer_through_ECCV_2018_paper.pdf) (ECCV'18)
 - [Cycada: Cycle-consistent adversarial domain adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (ICML'18)
@@ -94,12 +105,16 @@ Face Recognition
 Abundant source domain data, limited target domain data
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19 Oral)
 
+## Instance Segmentation
+- [SRDA: Generating Instance Segmentation Annotation Via Scanning, Reasoning And Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqiang_Xu_SRDA_Generating_Instance_ECCV_2018_paper.pdf) (ECCV'18)
+
 ## Feature Disentanglement
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
 - [Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Detach_and_Adapt_CVPR_2018_paper.pdf) (CVPR'18 Spotlight)
 
 ## Person Re-identification
 - [Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](https://arxiv.org/pdf/1904.01990.pdf) (CVPR'19)
+- [Domain Adaptation through Synthesis for Unsupervised Person Re-identification](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf) (ECCV'18)
 - [Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf) (CVPR'18)
 - [Adaptation and Re-Identification Network: An Unsupervised Deep Transfer Learning Approach to Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf) (CVPRW'18)
 
@@ -111,7 +126,12 @@ Abundant source domain data, limited target domain data
 
 ## Stereo
 - [Learning to Adapt for Stereo](https://arxiv.org/pdf/1904.02957.pdf) (CVPR'19)
+- [Learning Monocular Depth by Distilling Cross-domain Stereo Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoyang_Guo_Learning_Monocular_Depth_ECCV_2018_paper.pdf) (ECCV'18)
 - [Unsupervised adaptation for deep stereo](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf) (ICCV'17)
+
+## Object Detection
+- [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/pdf/1904.07305.pdf) (CVPR'19)
+- [AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.pdf) (ECCV'18)
 
 ## Reinforcement Learning
 - [Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Sim-Real_Joint_Reinforcement_Transfer_for_3D_Indoor_Navigation_CVPR_2019_paper.pdf) (CVPR'19)
@@ -119,13 +139,13 @@ Abundant source domain data, limited target domain data
 ## Multi-Domain
 - [Multi-Domain Adversarial Learning](https://openreview.net/forum?id=Sklv5iRqYX) (ICLR'19)
 
+## Zero-shot Learning
+- [Zero-Shot Deep Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf) (ECCV'18)
+
 ## Other
 
 #### Scene Text Detection and Recognition
 - [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](https://arxiv.org/pdf/1907.09653.pdf) (ICCV'19)
-
-#### Object Detection
-- [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/pdf/1904.07305.pdf) (CVPR'19)
 
 #### Adversarial Attack
 - [Improving the Generalization of Adversarial Training with Domain Adaptation](https://openreview.net/forum?id=SyfIfnC5Ym) (ICLR'19)
@@ -153,3 +173,4 @@ Abundant source domain data, limited target domain data
 
 ## Semantic Segmentation
 - [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) (BMVC'18)
+
