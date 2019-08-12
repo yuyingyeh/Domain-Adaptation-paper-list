@@ -159,6 +159,12 @@ Abundant source domain data, limited target domain data
 #### 3D Keypoint Estimation
 - [Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) (ECCV'18)
 
+#### Museum Exhibit Identification
+- [Museum Exhibit Identification Challenge for the Supervised Domain Adaptation and Beyond](http://openaccess.thecvf.com/content_ECCV_2018/papers/Piotr_Koniusz_Museum_Exhibit_Identification_ECCV_2018_paper.pdf) (ECCV'18)
+
+#### Autonomous Driving
+- [Real-to-Virtual Domain Unification for End-to-End Autonomous Driving](http://openaccess.thecvf.com/content_ECCV_2018/papers/Luona_Yang_Real-to-Virtual_Domain_Uni_ECCV_2018_paper.pdf) (ECCV'18)
+
 #### Gaze estimation and human hand pose estimation
 - [Learning from Simulated and Unsupervised Images through Adversarial Training](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.pdf) (CVPR'17)
 
