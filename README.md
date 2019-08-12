@@ -28,7 +28,7 @@ List recent papers related to domain adaptation in different type of application
 - [Unsupervised Domain Adaptation with Similarity Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf) (CVPR'18)
 - [Adversarial Dropout Regularization](https://openreview.net/forum?id=HJIoJWZCZ) (ICLR'18): Discriminative domain invariant feature, Ensemble-based DA
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18): Ensemble-based DA
-- [AdaptiveBatchNormalizationforpracticaldomainadaptation](http://winsty.net/papers/adabn.pdf) (Pattern Recognition'18): normalized-based method
+- [Adaptive Batch Normalization for practical domain adaptation](http://winsty.net/papers/adabn.pdf) (Pattern Recognition'18): normalized-based method
 - [Multi-Adversarial Domain Adaptation](https://arxiv.org/abs/1809.02176) (AAAI'18 Oral): class-aware domain discrepancy, discriminative domain invariant feature
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17): entropy-based DA
 - [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (ICCV'17): Discriminative domain invariant feature
