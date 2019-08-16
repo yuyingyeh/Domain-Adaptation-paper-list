@@ -10,7 +10,6 @@ List recent papers related to domain adaptation in different type of application
 - [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR'19)
 - [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1903.04064.pdf) (CVPR'19)
 - [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) (CVPR'19)
-- [Learning to Transfer Examples for Partial Domain Adaptation](https://arxiv.org/pdf/1903.12230.pdf) (CVPR'19)
 - [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf) (CVPR'19)
 - [Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) (ICML'19)
 - [Learning What and Where to Transfer](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf) (ICML'19)
@@ -60,6 +59,7 @@ List recent papers related to domain adaptation in different type of application
 
 #### Partial DA
 Target domain classes are subset of source domain
+- [Learning to Transfer Examples for Partial Domain Adaptation](https://arxiv.org/pdf/1903.12230.pdf) (CVPR'19)
 - [Partial Adversarial Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) (ECCV'18)
 
 #### Domain Generalization
