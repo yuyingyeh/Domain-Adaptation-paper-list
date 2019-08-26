@@ -35,7 +35,6 @@ List recent papers related to domain adaptation in different type of application
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18): Ensemble-based DA
 - [Adaptive Batch Normalization for practical domain adaptation](http://winsty.net/papers/adabn.pdf) (Pattern Recognition'18): normalized-based method
 - [Multi-Adversarial Domain Adaptation](https://arxiv.org/abs/1809.02176) (AAAI'18 Oral): class-aware domain discrepancy, discriminative domain invariant feature
-- [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17): entropy-based DA
 - [Joint distribution optimal transportation for domainadaptation](https://arxiv.org/pdf/1705.08848.pdf) (NIPS'17): Optimal transport, Wasserstein distance
 - [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (ICCV'17): Discriminative domain invariant feature
 - [Adversarial discriminative domain adaptation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) (CVPR'17)
@@ -70,9 +69,12 @@ Target label set is a subset of source label set
 - [Partial Transfer Learning with Selective Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf) (CVPR'18)
 - [Importance Weighted Adversarial Nets for Partial Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Importance_Weighted_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
 
-### Weakly supervised domain adaptation
-Abundant source domain data, limited target domain data
+#### Weakly Supervised DA
+Abundant source domain data, limited target domain data with labels
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19 Oral)
+
+Partly shared label sets, some labeled target domain data
+- [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17): entropy-based DA
 
 #### Universal DA
 - [Universal Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR'19)
