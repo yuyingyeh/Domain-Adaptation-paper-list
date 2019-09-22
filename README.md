@@ -11,6 +11,7 @@ List recent papers related to domain adaptation in different type of application
 - [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1903.04064.pdf) (CVPR'19)
 - [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) (CVPR'19)
 - [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf) (CVPR'19)
+- [Domain Agnostic Learning with Disentangled Representations](http://proceedings.mlr.press/v97/peng19b/peng19b.pdf) (ICML'19)
 - [Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) (ICML'19)
 - [Learning What and Where to Transfer](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf) (ICML'19)
 - [Bridging Theory and Algorithm for Domain Adaptation](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf) (ICML'19)
@@ -122,6 +123,7 @@ Face Recognition
 - [SRDA: Generating Instance Segmentation Annotation Via Scanning, Reasoning And Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqiang_Xu_SRDA_Generating_Instance_ECCV_2018_paper.pdf) (ECCV'18)
 
 ## Feature Disentanglement
+- [Domain Agnostic Learning with Disentangled Representations](http://proceedings.mlr.press/v97/peng19b/peng19b.pdf) (ICML'19)
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
 - [Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Detach_and_Adapt_CVPR_2018_paper.pdf) (CVPR'18 Spotlight)
 
