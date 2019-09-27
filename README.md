@@ -98,7 +98,6 @@ Face Recognition
 ## Semantic Segmentation
 ### Unsupervised Domain Adaptation
 - [Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation](https://arxiv.org/pdf/1901.05946.pdf) (ICCV'19)
-- [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/pdf/1811.10323.pdf) (ICCV'19)
 - [DLOW: Domain Flow for Adaptation and Generalization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gong_DLOW_Domain_Flow_for_Adaptation_and_Generalization_CVPR_2019_paper.pdf) (CVPR'19 Oral)
 - [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR'19)
 - [Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Semantic_Segmentation_From_Synthetic_Data_A_Geometrically_Guided_Input-Output_CVPR_2019_paper.pdf) (CVPR'19)
@@ -194,5 +193,6 @@ Face Recognition
 - [Semi-supervised Learningby Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
 
 ## Semantic Segmentation
+- [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/pdf/1811.10323.pdf) (ICCV'19)
 - [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) (BMVC'18)
 
