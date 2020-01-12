@@ -29,6 +29,7 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICLR'19)
 - [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI'19): attention mechanism
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
+- [Conditional Adversarial Domain Adaptation](https://arxiv.org/pdf/1705.10667.pdf) (NIPS'18)
 - [Co-regularized Alignment for Unsupervised Domain Adaptation](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf) (NIPS'18)
 - [Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.pdf) (ECCV'18)
 - [Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation:the Benefit of Target Expectation Maximization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf) (ECCV'18)
@@ -38,6 +39,7 @@ List recent papers related to domain adaptation in different type of application
 - [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/pdf/1704.01705.pdf) (CVPR'18 Spotlight)
 - [Collaborative and Adversarial Network for Unsupervised domain adaptation](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf) (CVPR'18): Adversarial-based DA
 - [Unsupervised Domain Adaptation with Similarity Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf) (CVPR'18)
+- [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
 - [Adversarial Dropout Regularization](https://openreview.net/forum?id=HJIoJWZCZ) (ICLR'18): Discriminative domain invariant feature, Ensemble-based DA
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18): Ensemble-based DA
 - [Adaptive Batch Normalization for practical domain adaptation](http://winsty.net/papers/adabn.pdf) (Pattern Recognition'18): normalized-based method
