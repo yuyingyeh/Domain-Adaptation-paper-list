@@ -8,6 +8,7 @@ List recent papers related to domain adaptation in different type of application
 - [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
 
 ## Classification
+- [Cluster Alignment with a Teacher for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19)
 - [Unsupervised Domain Adaptation via Regularized Conditional Alignment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cicek_Unsupervised_Domain_Adaptation_via_Regularized_Conditional_Alignment_ICCV_2019_paper.pdf) (ICCV'19)
 - [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19): adapt classifier
 - [Bayesian Uncertainty Matching for Unsupervised Domain Adaptation](https://www.ijcai.org/proceedings/2019/0534.pdf) (IJCAI'19): classifier adaptation based
