@@ -76,10 +76,15 @@ List recent papers related to domain adaptation in different type of application
 
 #### Domain Generalization
 Labeled source domain data only, no unlabeled/labeled target domain data
+- [Domain Generalization via Model-Agnostic Learning of Semantic Features](https://arxiv.org/abs/1910.13580) (NIPS'19): meta-learning for multi source DG
+- [MetaReg: Towards Domain Generalization using Meta-Regularization](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf) (NIPS'18): meta-learning for multi source DG
 - [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf) (ECCV'18)
+- [Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/abs/1710.03463) (AAAI'18): meta-learning for multi source DG
 
 #### Semi-supervised DA
 - [Semi-supervised Domain Adaptation via Minimax Entropy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.pdf) (ICCV'19)
+- [Semi-Supervised Domain Adaptation With Subspace Learning for Visual Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yao_Semi-Supervised_Domain_Adaptation_2015_CVPR_paper.pdf) (CVPR'15): subspace learning
+- [Semi-Supervised Domain Adaptation with Instance Constraints](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Donahue_Semi-supervised_Domain_Adaptation_2013_CVPR_paper.pdf) (CVPR'13): label smoothing
 
 #### Open-Set DA
 Source label set is a subset of target label set
@@ -211,6 +216,7 @@ Face Recognition
 - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
+- [Frustratingly Easy Domain Adaptation](https://arxiv.org/abs/0907.1815) (ACL'07): regularization
 - [Semi-supervised Learning by Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
 
 ## Semantic Segmentation
