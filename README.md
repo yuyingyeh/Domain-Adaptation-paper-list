@@ -8,6 +8,7 @@ List recent papers related to domain adaptation in different type of application
 - [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
 
 ## Classification
+#### Unsupervised Domain Adaptation
 - [Cluster Alignment with a Teacher for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19)
 - [Unsupervised Domain Adaptation via Regularized Conditional Alignment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cicek_Unsupervised_Domain_Adaptation_via_Regularized_Conditional_Alignment_ICCV_2019_paper.pdf) (ICCV'19)
 - [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19): adapt classifier
@@ -64,6 +65,9 @@ List recent papers related to domain adaptation in different type of application
 - [Learning transferable features with deep adaptation networks](http://proceedings.mlr.press/v37/long15.pdf) (ICML'15): MMD
 - [Deep Domain Confusion: Maximizing for Domain Invariance](https://arxiv.org/pdf/1412.3474.pdf) (ArXiv'14): MMD
 - [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf) (ICCV'13): class-aware domain discrepancy
+
+#### Semi-supervised DA
+- [Semi-supervised Domain Adaptation via Minimax Entropy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.pdf) (ICCV'19)
 
 #### Open-Set DA
 Source label set is a subset of target label set
