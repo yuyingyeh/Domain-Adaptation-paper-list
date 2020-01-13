@@ -77,6 +77,7 @@ List recent papers related to domain adaptation in different type of application
 #### Domain Generalization
 Labeled source domain data only, no unlabeled/labeled target domain data
 - [Domain Generalization via Model-Agnostic Learning of Semantic Features](https://arxiv.org/abs/1910.13580) (NIPS'19): meta-learning for multi source DG
+- [Domain Generalization by Solving Jigsaw Puzzles](https://arxiv.org/abs/1903.06864) (CVPR'19 Oral)
 - [MetaReg: Towards Domain Generalization using Meta-Regularization](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf) (NIPS'18): meta-learning for multi source DG
 - [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf) (ECCV'18)
 - [Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/abs/1710.03463) (AAAI'18): meta-learning for multi source DG
