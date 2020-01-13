@@ -6,6 +6,7 @@ List recent papers related to domain adaptation in different type of application
 ## Theory
 - [A General Upper Bound for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.01409) (ArXiv'19.10)
 - [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
+- [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (Machine Learning' 2010): H-divergence
 
 ## Classification
 #### Unsupervised Domain Adaptation
@@ -66,6 +67,17 @@ List recent papers related to domain adaptation in different type of application
 - [Deep Domain Confusion: Maximizing for Domain Invariance](https://arxiv.org/pdf/1412.3474.pdf) (ArXiv'14): MMD
 - [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf) (ICCV'13): class-aware domain discrepancy
 
+#### Universal DA
+- [Universal Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR'19)
+
+#### Multi-Source DA
+- [Moment Matching for Multi-Source Domain Adaptation](https://arxiv.org/pdf/1812.01754.pdf) (ICCV'19 Oral): new generalisation bounds, DomainNet dataset
+- [Adversarial Multiple Source Domain Adaptation](https://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation.pdf) (NIPS'18): new generalisation bounds
+
+#### Domain Generalization
+Labeled source domain data only, no unlabeled/labeled target domain data
+- [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf) (ECCV'18)
+
 #### Semi-supervised DA
 - [Semi-supervised Domain Adaptation via Minimax Entropy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.pdf) (ICCV'19)
 
@@ -90,13 +102,6 @@ Abundant source domain data, limited target domain data with labels
 
 Partly shared label sets, some labeled target domain data
 - [Label efficient learning of transferable representations acrosss domains and tasks](https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf) (NIPS'17): entropy-based DA
-
-#### Universal DA
-- [Universal Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR'19)
-
-#### Domain Generalization
-Labeled source domain data only, no unlabeled/labeled target domain data
-- [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf) (ECCV'18)
 
 #### Video Classification
 Human action recognition
@@ -206,7 +211,7 @@ Face Recognition
 - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf) (NIPS'18)
 - [mixup: Beyond Empirical Risk Minimization](https://openreview.net/forum?id=r1Ddp1-Rb) (ICLR'18)
 - [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/pdf/1606.01583.pdf) (ICML'16 workshop)
-- [Semi-supervised Learningby Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
+- [Semi-supervised Learning by Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) (NIPS'04)
 
 ## Semantic Segmentation
 - [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/pdf/1811.10323.pdf) (ICCV'19)
