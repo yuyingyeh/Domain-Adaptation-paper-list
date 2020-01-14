@@ -10,6 +10,7 @@ List recent papers related to domain adaptation in different type of application
 
 ## Classification
 #### Unsupervised Domain Adaptation
+- [Beyond Sharing Weights for Deep Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/8310033) (PAMI'19)[[ArXiv]](https://arxiv.org/pdf/1603.06432.pdf): MMD 
 - [Cluster Alignment with a Teacher for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19)
 - [Unsupervised Domain Adaptation via Regularized Conditional Alignment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cicek_Unsupervised_Domain_Adaptation_via_Regularized_Conditional_Alignment_ICCV_2019_paper.pdf) (ICCV'19)
 - [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) (ICCV'19): adapt classifier
@@ -49,6 +50,7 @@ List recent papers related to domain adaptation in different type of application
 - [Multi-Adversarial Domain Adaptation](https://arxiv.org/abs/1809.02176) (AAAI'18 Oral): class-aware domain discrepancy, discriminative domain invariant feature
 - [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (AAAI'18)
 - [Joint distribution optimal transportation for domainadaptation](https://arxiv.org/pdf/1705.08848.pdf) (NIPS'17): Optimal transport, Wasserstein distance
+- [AutoDIAL: Automatic DomaIn Alignment Layers](https://arxiv.org/pdf/1704.08082.pdf) (ICCV'17): batch normalization layer
 - [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (ICCV'17): Discriminative domain invariant feature
 - [Adversarial discriminative domain adaptation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) (CVPR'17)
 - [Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/pdf/1612.05424.pdf) (CVPR'17)
@@ -174,6 +176,7 @@ Face Recognition
 - [Strong-Weak Distribution Alignment for Adaptive Object Detection](https://arxiv.org/pdf/1812.04798.pdf) (CVPR'19): [[Page]](http://cs-people.bu.edu/keisaito/research/CVPR2019.html)
 - [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/pdf/1904.07305.pdf) (CVPR'19)
 - [AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.pdf) (ECCV'18)
+- [Domain Adaptive Faster R-CNN for Object Detection in the Wild](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) (CVPR'18)
 
 ## Reinforcement Learning
 - [Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Sim-Real_Joint_Reinforcement_Transfer_for_3D_Indoor_Navigation_CVPR_2019_paper.pdf) (CVPR'19)
