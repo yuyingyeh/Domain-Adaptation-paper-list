@@ -227,3 +227,6 @@ Face Recognition
 - [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/pdf/1811.10323.pdf) (ICCV'19)
 - [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) (BMVC'18)
 
+# Transfer Learning
+## Image generation
+- [Image Generation From Small Datasets via Batch Statistics Adaptation](https://arxiv.org/pdf/1904.01774.pdf) (ICCV'19)
