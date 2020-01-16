@@ -37,6 +37,7 @@ List recent papers related to domain adaptation in different type of application
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICLR'19)
 - [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI'19): attention mechanism, adversarial
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
+- [Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound](https://papers.nips.cc/paper/8236-unsupervised-image-to-image-translation-using-domain-specific-variational-information-bound.pdf) (NIPS'18): MMD
 - [Conditional Adversarial Domain Adaptation](https://arxiv.org/pdf/1705.10667.pdf) (NIPS'18)
 - [Co-regularized Alignment for Unsupervised Domain Adaptation](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf) (NIPS'18)
 - [Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.pdf) (ECCV'18)
@@ -48,6 +49,7 @@ List recent papers related to domain adaptation in different type of application
 - [Collaborative and Adversarial Network for Unsupervised domain adaptation](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf) (CVPR'18): Adversarial-based DA
 - [Unsupervised Domain Adaptation with Similarity Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf) (CVPR'18)
 - [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (CVPR'18)
+- [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (ICML'18)
 - [Adversarial Dropout Regularization](https://openreview.net/forum?id=HJIoJWZCZ) (ICLR'18): Discriminative domain invariant feature, Ensemble-based DA
 - [Self-ensembling for visual domain adaptation](https://openreview.net/forum?id=rkpoTaxA-) (ICLR'18): Ensemble-based DA
 - [Adaptive Batch Normalization for practical domain adaptation](http://winsty.net/papers/adabn.pdf) (Pattern Recognition'18): normalized-based method
@@ -62,6 +64,7 @@ List recent papers related to domain adaptation in different type of application
 - [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/pdf/1605.06636.pdf) (ICML'17): JMMD
 - [Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning](https://arxiv.org/abs/1702.08811) (ICLR'17): MMD based method
 - [Revisiting Batch Normalization For Practical Domain Adaptation](https://openreview.net/forum?id=Hk6dkJQFx) (ICLR'17 workshop): normalization-based method
+- [Correlation Alignment for Unsupervised Domain Adaptation](https://arxiv.org/abs/1612.01939) (DA in CV'17): CORAL
 - [Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536.pdf) (NIPS'16)
 - [Learning Transferrable Representations for Unsupervised Domain Adaptation](https://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation.pdf) (NIPS'16): Discriminative domain invariant feature
 - [Unsupervised Domain Adaptation with ResidualTransfer Networks](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf) (NIPS'16): MMD based method
