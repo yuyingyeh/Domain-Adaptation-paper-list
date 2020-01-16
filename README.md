@@ -3,6 +3,9 @@
 
 List recent papers related to domain adaptation in different type of applications. Some are referred from [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
 
+## Survey
+- [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601.pdf) (Neurocomputing'18)
+
 ## Theory
 - [A General Upper Bound for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.01409) (ArXiv'19.10)
 - [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
