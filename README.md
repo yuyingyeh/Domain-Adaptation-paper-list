@@ -5,6 +5,7 @@ List recent papers related to domain adaptation in different type of application
 
 ## Survey
 - [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601.pdf) (Neurocomputing'18)
+- [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (IEEE TKDE'09)
 
 ## Theory
 - [A General Upper Bound for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.01409) (ArXiv'19.10)
@@ -34,7 +35,7 @@ List recent papers related to domain adaptation in different type of application
 - [Improving the Generalization of Adversarial Training with Domain Adaptation](https://openreview.net/forum?id=SyfIfnC5Ym) (ICLR'19)
 - [Multi-Domain Adversarial Learning](https://openreview.net/forum?id=Sklv5iRqYX) (ICLR'19)
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICLR'19)
-- [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI'19): attention mechanism
+- [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI'19): attention mechanism, adversarial
 - [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) (NIPS'18)
 - [Conditional Adversarial Domain Adaptation](https://arxiv.org/pdf/1705.10667.pdf) (NIPS'18)
 - [Co-regularized Alignment for Unsupervised Domain Adaptation](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf) (NIPS'18)
@@ -67,6 +68,7 @@ List recent papers related to domain adaptation in different type of application
 - [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (ECCV'16 workshop)
 - [Domain adversarial training of neural networks](http://jmlr.org/papers/volume17/15-239/15-239.pdf) (JMLR'16)
 - [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) (TPAMI'16): Optimal transport, Wasserstein distance
+- [Return of Frustratingly Easy Domain Adaptation](https://arxiv.org/abs/1511.05547) (AAAI'16): correlation distance
 - [Simultaneous deep transfer across domains and tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf) (CVPR'15)
 - [Learning transferable features with deep adaptation networks](http://proceedings.mlr.press/v37/long15.pdf) (ICML'15): MMD
 - [Deep Domain Confusion: Maximizing for Domain Invariance](https://arxiv.org/pdf/1412.3474.pdf) (ArXiv'14): MMD
