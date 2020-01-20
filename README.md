@@ -10,6 +10,7 @@ List recent papers related to domain adaptation in different type of application
 ## Theory
 - [A General Upper Bound for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.01409) (ArXiv'19.10)
 - [An analytic theory of generalization dynamics and transfer learning in deep linear networks](https://openreview.net/forum?id=ryfMLoCqtQ) (ICLR'19)
+- [A Kernel Two-Sample Test](http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf) (JMLR'2012): MMD
 - [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (Machine Learning' 2010): H-divergence
 
 ## Classification
